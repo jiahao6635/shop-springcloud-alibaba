@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisProjectProfileManager">
+    <option name="PROJECT_PROFILE" />
+    <option name="USE_PROJECT_LEVEL_SETTINGS" value="false" />
+    <list size="0" />
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="D:/hht/canyin-saas-crm" value="PREVIEW" />
+        <entry key="D:/hht/huoguo-scm" value="PREVIEW" />
+        <entry key="D:/hht/scm-require-ship" value="PREVIEW" />
+        <entry key="D:/hht/shop" value="PREVIEW" />
+        <entry key="D:/hht/shop-cloud-archive" value="PREVIEW" />
+        <entry key="D:/hht/shop-cloud-dish" value="PREVIEW" />
+        <entry key="D:/hht/shop-cloud-report" value="PREVIEW" />
+        <entry key="D:/hht/shop-cloud-report-task" value="PREVIEW" />
+        <entry key="D:/hht/项目/Test.shopcloud-archive" value="PREVIEW" />
+        <entry key="D:/hht/项目/canyin-saas-crm" value="PREVIEW" />
+        <entry key="D:/hht/项目/huoguo" value="PREVIEW" />
+        <entry key="D:/hht/项目/huoguo-scm" value="PREVIEW" />
+        <entry key="D:/hht/项目/huoguo-scm2" value="PREVIEW" />
+        <entry key="D:/huoguo-scm" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ScalaSbtSettings">
+    <option name="customVMPath" />
+  </component>
+  <component name="SuppressionsComponent">
+    <option name="suppComments" value="[]" />
+  </component>
+</project>
